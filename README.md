@@ -22,6 +22,7 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 * http://www.startupbird.com/
 * http://www.ratemystartup.com/
 * http://www.new-startups.com/
+* http://www.yourstory.com/
 * http://www.nextbigwhat.com/
 * http://www.stackshare.io/
 * http://www.launchingnext.com/
